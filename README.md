@@ -1,3 +1,3 @@
 # eggplant
 A lowpro board with the layout of an alpha.
-She's coming soon.
+https://imgur.com/a/4mmPzud
